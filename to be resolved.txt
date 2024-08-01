@@ -1,0 +1,6 @@
+bilingual function
+Responsivness
+en & ge buttons (on English text 'ge' is shown)
+email security
+
+
